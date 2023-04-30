@@ -1,0 +1,67 @@
+16:54:09.599 INFO  utilities.Util -Current Date and Time :: 04_30_2023 16_54_09
+16:54:09.614 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:54:09.614 INFO  utilities.ExtentManager -C:\Users\AISHAT\IdeaProjects\frameWork1/reports/AutomationReport_04_30_2023 16_54_09.html
+16:54:09.614 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:54:10.016 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+16:54:10.017 INFO  base.TestListeners -These methods will be executed in this <test> tag
+16:54:10.018 INFO  base.TestListeners -verifySearchCourse
+16:54:10.061 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:54:10.061 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\AISHAT\IdeaProjects\frameWork1//drivers//chromedriver.exe
+16:54:26.965 INFO  base.CustomDriver -Clicked On :: link to login
+16:54:27.236 INFO  base.CustomDriver -Send Keys on element :: Email field with data :: test@email.com
+16:54:27.474 INFO  base.CustomDriver -Send Keys on element :: password field with data :: abcabc
+16:54:27.661 INFO  base.CustomDriver -Clicked On :: log in button
+16:54:27.731 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifySearchCourse
+16:54:28.656 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:00:12.155 INFO  utilities.Util -Current Date and Time :: 04_30_2023 17_00_12
+17:00:12.171 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:00:12.172 INFO  utilities.ExtentManager -C:\Users\AISHAT\IdeaProjects\frameWork1/reports/AutomationReport_04_30_2023 17_00_12.html
+17:00:12.172 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:00:12.578 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:00:12.578 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:00:12.579 INFO  base.TestListeners -verifySearchCourse
+17:00:12.626 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:00:12.626 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\AISHAT\IdeaProjects\frameWork1//drivers//chromedriver.exe
+17:01:05.774 INFO  base.CustomDriver -Clicked On :: link to login
+17:01:06.023 INFO  base.CustomDriver -Send Keys on element :: Email field with data :: test@email.com
+17:01:06.406 INFO  base.CustomDriver -Send Keys on element :: password field with data :: abcabc
+17:01:06.584 INFO  base.CustomDriver -Clicked On :: log in button
+17:01:08.994 INFO  base.CheckPoint -Clearing Results Hash Map
+17:01:23.104 INFO  base.CustomDriver -Clicked On :: All courses link
+17:01:23.399 INFO  base.CustomDriver -Send Keys on element :: Search course field with data :: rest api
+17:01:23.554 INFO  base.CustomDriver -Clicked On :: search course button
+17:01:23.734 INFO  base.CustomDriver -Element List found with: class=>zen-course-list
+17:01:23.783 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:01:23.833 INFO  base.CheckPoint -Clearing Results Hash Map
+17:01:26.433 INFO  base.CustomDriver -Clicked On :: All courses link
+17:01:26.767 INFO  base.CustomDriver -Send Keys on element :: Search course field with data :: javascript
+17:01:26.892 INFO  base.CustomDriver -Clicked On :: search course button
+17:01:26.915 INFO  base.CustomDriver -Element List found with: class=>zen-course-list
+17:01:26.925 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:01:27.784 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:15:28.754 INFO  utilities.Util -Current Date and Time :: 04_30_2023 17_15_28
+17:15:28.775 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:15:28.775 INFO  utilities.ExtentManager -C:\Users\AISHAT\IdeaProjects\frameWork1/reports/AutomationReport_04_30_2023 17_15_28.html
+17:15:28.777 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:15:29.302 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:15:29.302 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:15:29.302 INFO  base.TestListeners -verifySearchCourse
+17:15:29.368 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:15:29.368 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\AISHAT\IdeaProjects\frameWork1//drivers//chromedriver.exe
+17:15:48.882 INFO  base.CustomDriver -Clicked On :: link to login
+17:15:49.241 INFO  base.CustomDriver -Send Keys on element :: Email field with data :: test@email.com
+17:15:49.464 INFO  base.CustomDriver -Send Keys on element :: password field with data :: abcabc
+17:15:49.772 INFO  base.CustomDriver -Clicked On :: log in button
+17:15:51.063 INFO  base.CheckPoint -Clearing Results Hash Map
+17:16:04.236 INFO  base.CustomDriver -Clicked On :: All courses link
+17:16:04.634 INFO  base.CustomDriver -Send Keys on element :: Search course field with data :: rest api
+17:16:04.953 INFO  base.CustomDriver -Clicked On :: search course button
+17:16:04.998 INFO  base.CustomDriver -Element List found with: class=>zen-course-list
+17:16:05.016 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:16:05.049 INFO  base.CheckPoint -Clearing Results Hash Map
+17:16:07.315 INFO  base.CustomDriver -Clicked On :: All courses link
+17:16:07.528 INFO  base.CustomDriver -Send Keys on element :: Search course field with data :: javascript
+17:16:07.694 INFO  base.CustomDriver -Clicked On :: search course button
+17:16:07.721 INFO  base.CustomDriver -Element List found with: class=>zen-course-list
+17:16:07.730 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:16:09.905 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
